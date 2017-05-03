@@ -1,0 +1,20 @@
+!/*
+*.swp
+tags
+releases/
+database/dumps/*
+/vendor
+/node_modules
+.env
+.idea
+.DS_Store
+/tests/logs
+/tests/output
+__MACOSX
+/packages
+npm-debug.log
+public/js/*
+public/css/*
+public/font/*
+<<<<<<< HEAD
+releases
